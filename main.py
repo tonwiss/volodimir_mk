@@ -2,4 +2,5 @@ from grisha import poo
 from vova import foo
  
 poo()
-foo() 
+foo()
+print('œ∑´®†¥¨ˆø¬˚µ˜∫©ƒ∂ßå≈ç√∫˜µ≤µ˜∫©ƒ®†¥¨∆˚¬øˆ¨¥†®∂´∑®†©˙∆')
